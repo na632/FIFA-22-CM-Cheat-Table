@@ -1,0 +1,194 @@
+[ INFO ] Fri Jun  3 17:17:00 2022 - ================================
+[ INFO ] Fri Jun  3 17:17:00 2022 - =========== INITIALIZE =========
+[ INFO ] Fri Jun  3 17:17:00 2022 - ================================
+[ INFO ] Fri Jun  3 17:17:00 2022 - os.getenv('HOMEDRIVE') C:
+[ INFO ] Fri Jun  3 17:17:00 2022 - os.getenv('SystemDrive') C:
+[ INFO ] Fri Jun  3 17:17:00 2022 - HOMEDRIVE: C:
+[ INFO ] Fri Jun  3 17:17:01 2022 - Using cwd Config
+[ INFO ] Fri Jun  3 17:17:01 2022 - Loading CFG_DATA from config.ini
+[ INFO ] Fri Jun  3 17:17:01 2022 - Loading OFFSETS_DATA from offsets.ini
+[ INFO ] Fri Jun  3 17:17:01 2022 - Setup Form Manager: playerseditor_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Setup Form Manager: main_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Setup Form Manager: findplayer_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Setup Form Manager: matchfixing_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Setup Form Manager: transferplayers_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Setup Form Manager: teamseditor_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Resize teams editor: teamseditor_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Setup Form Manager: settings_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Setup Form Manager: matchscheduleeditor_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Setup Form Manager: newmatchfix_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Setup Form Manager: findteam_form
+[ INFO ] Fri Jun  3 17:17:01 2022 - Cheat engine version: 7.400000
+[ INFO ] Fri Jun  3 17:17:01 2022 - Cheat Table version: 22.1.1.6
+[ INFO ] Fri Jun  3 17:17:01 2022 - Searching for game process
+[ INFO ] Fri Jun  3 17:17:04 2022 - Attached to FIFA22.exe (PID: 1700)
+[ INFO ] Fri Jun  3 17:17:04 2022 - Patrons ver -  22.1.1.6, free ver - 
+22.1.1.6
+[ INFO ] Fri Jun  3 17:17:05 2022 - Veryfing ScreenID offset
+[ INFO ] Fri Jun  3 17:17:05 2022 - addres_to_check 1415C3C02, aob: 4C 8D 3D ?? ?? ?? ?? C1 E8 07 49 8B F4 A8 01 4C 0F 45 3D
+[ INFO ] Fri Jun  3 17:17:05 2022 - Veryfing ScreenID offset success
+[ INFO ] Fri Jun  3 17:17:05 2022 - Current Screen: CareerManagerHubCfg
+[ INFO ] Fri Jun  3 17:17:05 2022 - Waiting for valid screen
+[ INFO ] Fri Jun  3 17:17:05 2022 - Current Screen: CareerManagerHubCfg
+[ INFO ] Fri Jun  3 17:17:05 2022 - Loading playernames: other/playernames.csv
+[ INFO ] Fri Jun  3 17:17:05 2022 - Playernames loaded.
+[ INFO ] Fri Jun  3 17:17:05 2022 - Saving Config to config.ini
+[ INFO ] Fri Jun  3 17:17:06 2022 - Activating Globals (14)
+[ INFO ] Fri Jun  3 17:17:06 2022 - Activating Scripts (18)
+[ INFO ] Fri Jun  3 17:17:06 2022 - Activating Hidden FIFA DB Tables (214)
+[ INFO ] Fri Jun  3 17:17:06 2022 - Veryfing fnGetColData offset
+[ INFO ] Fri Jun  3 17:17:06 2022 - addres_to_check 142F63C60, aob: 40 53 48 83 EC 30 4C 8B D2 4D 8B D8 8B 12 8D 42 FD 83 F8 01
+[ INFO ] Fri Jun  3 17:17:06 2022 - Veryfing fnGetColData offset success
+[ INFO ] Fri Jun  3 17:17:06 2022 - Activating Scripts (18)
+[ INFO ] Fri Jun  3 17:17:06 2022 - Activating Hidden FIFA DB Tables (214)
+[ INFO ] Fri Jun  3 17:17:06 2022 - Veryfing DatabaseBasePtr offset
+[ INFO ] Fri Jun  3 17:17:06 2022 - addres_to_check 142F6982F, aob: 48 0F 44 2D ?? ?? ?? ?? 45 33 FF 8B 4D 08 8B F1 0F AF 75 00 8D 41 01
+[ INFO ] Fri Jun  3 17:17:06 2022 - Veryfing DatabaseBasePtr offset success
+[ INFO ] Fri Jun  3 17:17:06 2022 - Veryfing pModeManagers offset
+[ INFO ] Fri Jun  3 17:17:06 2022 - addres_to_check 14627C148, aob: 4C 89 3D ?? ?? ?? ?? 48 89 3D ?? ?? ?? ?? EB 03 48 8B C3
+[ INFO ] Fri Jun  3 17:17:06 2022 - Veryfing pModeManagers offset success
+[ INFO ] Fri Jun  3 17:17:06 2022 - Veryfing fnGenYAReport offset
+[ INFO ] Fri Jun  3 17:17:06 2022 - addres_to_check 145EDA170, aob: 40 55 57 48 8D 6C 24 ?? 48 81 EC ?? ?? ?? ?? 48 8B 01 48 8B F9 FF 50 08 84 C0 0F 84 ?? ?? ?? ?? 48 8B 57 08 48 89 9C 24 ?? ?? ?? ?? 4C 89 B4 24 ?? ?? ?? ??
+[ INFO ] Fri Jun  3 17:17:06 2022 - Veryfing fnGenYAReport offset success
+[ INFO ] Fri Jun  3 17:17:06 2022 - load_img: heads/p41.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/heads/p41.png
+[ INFO ] Fri Jun  3 17:17:06 2022 - load_img: crest/l1.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/crest/dark/l1.png
+[ INFO ] Fri Jun  3 17:17:06 2022 - Ready to use.
+[ INFO ] Fri Jun  3 17:17:17 2022 - Veryfing CoachTrainingAlwaysA offset
+[ INFO ] Fri Jun  3 17:17:17 2022 - addres_to_check 146306B6F, aob: 66 C7 46 04 01 01 8B
+[ INFO ] Fri Jun  3 17:17:17 2022 - Veryfing CoachTrainingAlwaysA offset success
+[ INFO ] Fri Jun  3 17:17:28 2022 - Veryfing YASomeScoutIni offset
+[ INFO ] Fri Jun  3 17:17:28 2022 - addres_to_check 145EDFF2F, aob: 48 48 8B 07 48 8B 80 98 01 00 00
+[ INFO ] Fri Jun  3 17:17:28 2022 - Veryfing YASomeScoutIni offset success
+[ INFO ] Fri Jun  3 17:17:30 2022 - Veryfing YAYouthPlayerUtilSettings offset
+[ INFO ] Fri Jun  3 17:17:30 2022 - addres_to_check 1462495DE, aob: 48 8B 51 18 48 8D 8D ?? ?? ?? ?? 48 83 C2 08 E8 ?? ?? ?? ?? 44 8B 85 ?? ?? ?? ?? 45 8B F8 48 63 44 24
+[ INFO ] Fri Jun  3 17:17:30 2022 - Veryfing YAYouthPlayerUtilSettings offset success
+[ INFO ] Fri Jun  3 17:17:31 2022 - Veryfing YAMaxPerReport offset
+[ INFO ] Fri Jun  3 17:17:31 2022 - addres_to_check 145EC8DA5, aob: 47 8B 44 FE 58
+[ WARNING ] Fri Jun  3 17:17:31 2022 - Veryfing YAMaxPerReport offset failed
+[ WARNING ] Fri Jun  3 17:17:31 2022 - Bytes in memory: 00 00 49 8B 5B != YAMaxPerReport: 47 8B 44 FE 58
+[ INFO ] Fri Jun  3 17:17:31 2022 - AOBScanModule, pattern for YAMaxPerReport
+[ INFO ] Fri Jun  3 17:17:31 2022 - 47 8B 44 FE 58
+[ INFO ] Fri Jun  3 17:17:31 2022 - Module_size FIFA22.exe, 26BAE000
+[ INFO ] Fri Jun  3 17:17:31 2022 - 140000000 - 166BAE000
+[ INFO ] Fri Jun  3 17:17:32 2022 - New Offset for YAMaxPerReport - 0x5EDAD05
+[ INFO ] Fri Jun  3 17:17:32 2022 - Saving Offsets to offsets.ini
+[ INFO ] Fri Jun  3 17:17:49 2022 - Veryfing GTNRevealPlayerData offset
+[ INFO ] Fri Jun  3 17:17:49 2022 - addres_to_check 146349E26, aob: 8B 8D 9C 02 00 00 39
+[ INFO ] Fri Jun  3 17:17:49 2022 - Veryfing GTNRevealPlayerData offset success
+[ INFO ] Fri Jun  3 17:17:53 2022 - Veryfing MatchScore offset
+[ INFO ] Fri Jun  3 17:17:53 2022 - addres_to_check 143870972, aob: 8B 90 B4 26 02 00
+[ INFO ] Fri Jun  3 17:17:53 2022 - Veryfing MatchScore offset success
+[ INFO ] Fri Jun  3 17:17:53 2022 - Veryfing DisableSubstitutions offset
+[ INFO ] Fri Jun  3 17:17:53 2022 - addres_to_check 142F72570, aob: 44 8B B4 1E 5C A7 00 00
+[ INFO ] Fri Jun  3 17:17:53 2022 - Veryfing DisableSubstitutions offset success
+[ INFO ] Fri Jun  3 17:17:53 2022 - Veryfing IngameStamina offset
+[ INFO ] Fri Jun  3 17:17:53 2022 - addres_to_check 143A16023, aob: 89 83 A0 04 00 00 8B 47
+[ INFO ] Fri Jun  3 17:17:53 2022 - Veryfing IngameStamina offset success
+[ INFO ] Fri Jun  3 17:17:54 2022 - Veryfing UnlimitedSubstitutions offset
+[ INFO ] Fri Jun  3 17:17:54 2022 - addres_to_check 145AD51B1, aob: 8B 84 01 0C 9F 00 00
+[ INFO ] Fri Jun  3 17:17:54 2022 - Veryfing UnlimitedSubstitutions offset success
+[ INFO ] Fri Jun  3 17:18:39 2022 - Veryfing DatabaseBasePtr offset
+[ INFO ] Fri Jun  3 17:18:39 2022 - addres_to_check 142F6982F, aob: 48 0F 44 2D ?? ?? ?? ?? 45 33 FF 8B 4D 08 8B F1 0F AF 75 00 8D 41 01
+[ INFO ] Fri Jun  3 17:18:39 2022 - Veryfing DatabaseBasePtr offset success
+[ INFO ] Fri Jun  3 17:18:39 2022 - Veryfing pModeManagers offset
+[ INFO ] Fri Jun  3 17:18:39 2022 - addres_to_check 14627C148, aob: 4C 89 3D ?? ?? ?? ?? 48 89 3D ?? ?? ?? ?? EB 03 48 8B C3
+[ INFO ] Fri Jun  3 17:18:39 2022 - Veryfing pModeManagers offset success
+[ INFO ] Fri Jun  3 17:18:39 2022 - Cache Player Names
+[ INFO ] Fri Jun  3 17:18:39 2022 - Cache Player Names Done
+[ INFO ] Fri Jun  3 17:18:39 2022 - load_img: heads/p258923.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/heads/p258923.png
+[ INFO ] Fri Jun  3 17:18:40 2022 - load_img: crest/l243.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/crest/dark/l243.png
+[ INFO ] Fri Jun  3 17:18:59 2022 - Loading FUT22 player: 24747
+[ INFO ] Fri Jun  3 17:19:00 2022 - Reply len: 373969
+[ INFO ] Fri Jun  3 17:19:00 2022 - base_playerid: 246514
+[ INFO ] Fri Jun  3 17:19:00 2022 - Loading FUT22 player: 24747 Finished
+[ INFO ] Fri Jun  3 17:19:00 2022 - load_img: ut/cards_bg/1_gold.png, https://cdn.futbin.com/content/fifa22/img/cards/1_gold.png?v=138
+[ INFO ] Fri Jun  3 17:19:00 2022 - load_img: heads/p24747.png, https://cdn.futbin.com/content/fifa22/img/players/p246514.png?v=23
+[ INFO ] Fri Jun  3 17:19:00 2022 - load_img: flags/f52.png, https://cdn.futbin.com/content/fifa22/img/nation/52.png
+[ INFO ] Fri Jun  3 17:19:00 2022 - load_img: crest/l112658.png, https://cdn.futbin.com/content/fifa22/img/clubs/112658.png
+[ INFO ] Fri Jun  3 17:19:13 2022 - fut_copy_card_to_gui
+[ INFO ] Fri Jun  3 17:19:13 2022 - fut_copy_card_to_gui, playerid: 246514
+[ CRITICAL ] Fri Jun  3 17:19:18 2022 - COPY ERROR
+ Player not Found: 246514
+[ INFO ] Fri Jun  3 17:19:20 2022 - fut_copy_card_to_gui finished
+[ INFO ] Fri Jun  3 17:19:22 2022 - fut_copy_card_to_gui
+[ INFO ] Fri Jun  3 17:19:22 2022 - fut_copy_card_to_gui, playerid: 246514
+[ CRITICAL ] Fri Jun  3 17:19:24 2022 - COPY ERROR
+ Player not Found: 246514
+[ INFO ] Fri Jun  3 17:19:26 2022 - fut_copy_card_to_gui finished
+[ INFO ] Fri Jun  3 17:19:28 2022 - Veryfing DatabaseBasePtr offset
+[ INFO ] Fri Jun  3 17:19:28 2022 - addres_to_check 142F6982F, aob: 48 0F 44 2D ?? ?? ?? ?? 45 33 FF 8B 4D 08 8B F1 0F AF 75 00 8D 41 01
+[ INFO ] Fri Jun  3 17:19:28 2022 - Veryfing DatabaseBasePtr offset success
+[ INFO ] Fri Jun  3 17:19:28 2022 - Veryfing pModeManagers offset
+[ INFO ] Fri Jun  3 17:19:28 2022 - addres_to_check 14627C148, aob: 4C 89 3D ?? ?? ?? ?? 48 89 3D ?? ?? ?? ?? EB 03 48 8B C3
+[ INFO ] Fri Jun  3 17:19:28 2022 - Veryfing pModeManagers offset success
+[ INFO ] Fri Jun  3 17:19:28 2022 - Cache Player Names
+[ INFO ] Fri Jun  3 17:19:28 2022 - Cache Player Names Done
+[ INFO ] Fri Jun  3 17:19:28 2022 - load_img: heads/p258923.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/heads/p258923.png
+[ INFO ] Fri Jun  3 17:19:28 2022 - load_img: crest/l243.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/crest/dark/l243.png
+[ INFO ] Fri Jun  3 17:19:31 2022 - Loading FUT22 player: 24747
+[ INFO ] Fri Jun  3 17:19:32 2022 - Reply len: 373969
+[ INFO ] Fri Jun  3 17:19:32 2022 - base_playerid: 246514
+[ INFO ] Fri Jun  3 17:19:32 2022 - Loading FUT22 player: 24747 Finished
+[ INFO ] Fri Jun  3 17:19:32 2022 - load_img: ut/cards_bg/1_gold.png, https://cdn.futbin.com/content/fifa22/img/cards/1_gold.png?v=138
+[ INFO ] Fri Jun  3 17:19:32 2022 - load_img: heads/p24747.png, https://cdn.futbin.com/content/fifa22/img/players/p246514.png?v=23
+[ INFO ] Fri Jun  3 17:19:32 2022 - load_img: flags/f52.png, https://cdn.futbin.com/content/fifa22/img/nation/52.png
+[ INFO ] Fri Jun  3 17:19:32 2022 - load_img: crest/l112658.png, https://cdn.futbin.com/content/fifa22/img/clubs/112658.png
+[ INFO ] Fri Jun  3 17:19:33 2022 - fut_copy_card_to_gui
+[ INFO ] Fri Jun  3 17:19:33 2022 - fut_copy_card_to_gui, playerid: 246514
+[ CRITICAL ] Fri Jun  3 17:19:35 2022 - COPY ERROR
+ Player not Found: 246514
+[ INFO ] Fri Jun  3 17:19:36 2022 - fut_copy_card_to_gui finished
+[ INFO ] Fri Jun  3 17:19:37 2022 - Loading FUT22 player: 58
+[ INFO ] Fri Jun  3 17:19:38 2022 - Reply len: 378594
+[ INFO ] Fri Jun  3 17:19:38 2022 - base_playerid: 190042
+[ INFO ] Fri Jun  3 17:19:38 2022 - Loading FUT22 player: 58 Finished
+[ INFO ] Fri Jun  3 17:19:38 2022 - load_img: ut/cards_bg/1_gold.png, https://cdn.futbin.com/content/fifa22/img/cards/1_gold.png?v=138
+[ INFO ] Fri Jun  3 17:19:38 2022 - load_img: heads/p58.png, https://cdn.futbin.com/content/fifa22/img/players/190042.png?v=23
+[ INFO ] Fri Jun  3 17:19:38 2022 - load_img: flags/f52.png, https://cdn.futbin.com/content/fifa22/img/nation/52.png
+[ INFO ] Fri Jun  3 17:19:38 2022 - load_img: crest/l112658.png, https://cdn.futbin.com/content/fifa22/img/clubs/112658.png
+[ INFO ] Fri Jun  3 17:19:39 2022 - fut_copy_card_to_gui
+[ INFO ] Fri Jun  3 17:19:39 2022 - fut_copy_card_to_gui, playerid: 190042
+[ INFO ] Fri Jun  3 17:19:39 2022 - fut_copy_card_to_gui, remapped playerid: 237074
+[ INFO ] Fri Jun  3 17:19:44 2022 - fut_copy_card_to_gui finished
+[ INFO ] Fri Jun  3 17:19:45 2022 - Apply Changes player
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (ballcontrol) for playerid: 258923 at 0x5EEBBDC8. new_val = 97
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (crossing) for playerid: 258923 at 0x5EEBBDC8. new_val = 88
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (gkhandling) for playerid: 258923 at 0x5EEBBDC8. new_val = 15
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (freekickaccuracy) for playerid: 258923 at 0x5EEBBDC8. new_val = 96
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (vision) for playerid: 258923 at 0x5EEBBDC8. new_val = 95
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (standingtackle) for playerid: 258923 at 0x5EEBBDC8. new_val = 42
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (shotpower) for playerid: 258923 at 0x5EEBBDC8. new_val = 85
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (gkkicking) for playerid: 258923 at 0x5EEBBDC8. new_val = 7
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (positioning) for playerid: 258923 at 0x5EEBBDC8. new_val = 92
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (gkdiving) for playerid: 258923 at 0x5EEBBDC8. new_val = 11
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (agility) for playerid: 258923 at 0x5EEBBDC8. new_val = 91
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (curve) for playerid: 258923 at 0x5EEBBDC8. new_val = 96
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (attackingworkrate) for playerid: 258923 at 0x5EEBBDC8. new_val = 3
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (longshots) for playerid: 258923 at 0x5EEBBDC8. new_val = 94
+[ INFO ] Fri Jun  3 17:19:45 2022 - update_xp_in_player_growth_system (stamina) for playerid: 258923 at 0x5EEBBDC8. new_val = 78
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (penalties) for playerid: 258923 at 0x5EEBBDC8. new_val = 94
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (gkpositioning) for playerid: 258923 at 0x5EEBBDC8. new_val = 14
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (longpassing) for playerid: 258923 at 0x5EEBBDC8. new_val = 89
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (marking) for playerid: 258923 at 0x5EEBBDC8. new_val = 27
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (dribbling) for playerid: 258923 at 0x5EEBBDC8. new_val = 98
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (acceleration) for playerid: 258923 at 0x5EEBBDC8. new_val = 94
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (composure) for playerid: 258923 at 0x5EEBBDC8. new_val = 95
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (headingaccuracy) for playerid: 258923 at 0x5EEBBDC8. new_val = 67
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (defensiveworkrate) for playerid: 258923 at 0x5EEBBDC8. new_val = 1
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (slidingtackle) for playerid: 258923 at 0x5EEBBDC8. new_val = 37
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (jumping) for playerid: 258923 at 0x5EEBBDC8. new_val = 82
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (finishing) for playerid: 258923 at 0x5EEBBDC8. new_val = 97
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (sprintspeed) for playerid: 258923 at 0x5EEBBDC8. new_val = 90
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (balance) for playerid: 258923 at 0x5EEBBDC8. new_val = 98
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (interceptions) for playerid: 258923 at 0x5EEBBDC8. new_val = 44
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (strength) for playerid: 258923 at 0x5EEBBDC8. new_val = 75
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (shortpassing) for playerid: 258923 at 0x5EEBBDC8. new_val = 93
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (reactions) for playerid: 258923 at 0x5EEBBDC8. new_val = 94
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (skillmoves) for playerid: 258923 at 0x5EEBBDC8. new_val = 5
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (weakfootabilitytypecode) for playerid: 258923 at 0x5EEBBDC8. new_val = 3
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (aggression) for playerid: 258923 at 0x5EEBBDC8. new_val = 76
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (gkreflexes) for playerid: 258923 at 0x5EEBBDC8. new_val = 8
+[ INFO ] Fri Jun  3 17:19:46 2022 - update_xp_in_player_growth_system (volleys) for playerid: 258923 at 0x5EEBBDC8. new_val = 88
+[ INFO ] Fri Jun  3 17:19:48 2022 - Player with ID 258923 has been edited
+[ INFO ] Fri Jun  3 17:19:55 2022 - Apply Changes player
+[ INFO ] Fri Jun  3 17:19:56 2022 - Player with ID 258923 has been edited

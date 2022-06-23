@@ -1,0 +1,81 @@
+[ INFO ] Mon May  9 20:53:45 2022 - ================================
+[ INFO ] Mon May  9 20:53:45 2022 - =========== INITIALIZE =========
+[ INFO ] Mon May  9 20:53:45 2022 - ================================
+[ INFO ] Mon May  9 20:53:45 2022 - os.getenv('HOMEDRIVE') C:
+[ INFO ] Mon May  9 20:53:45 2022 - os.getenv('SystemDrive') C:
+[ INFO ] Mon May  9 20:53:45 2022 - HOMEDRIVE: C:
+[ INFO ] Mon May  9 20:53:45 2022 - Using cwd Config
+[ INFO ] Mon May  9 20:53:45 2022 - Loading CFG_DATA from config.ini
+[ INFO ] Mon May  9 20:53:46 2022 - Loading OFFSETS_DATA from offsets.ini
+[ INFO ] Mon May  9 20:53:46 2022 - Setup Form Manager: findteam_form
+[ INFO ] Mon May  9 20:53:46 2022 - Setup Form Manager: main_form
+[ INFO ] Mon May  9 20:53:46 2022 - Setup Form Manager: settings_form
+[ INFO ] Mon May  9 20:53:46 2022 - Setup Form Manager: transferplayers_form
+[ INFO ] Mon May  9 20:53:46 2022 - Setup Form Manager: findplayer_form
+[ INFO ] Mon May  9 20:53:46 2022 - Setup Form Manager: newmatchfix_form
+[ INFO ] Mon May  9 20:53:46 2022 - Setup Form Manager: matchfixing_form
+[ INFO ] Mon May  9 20:53:46 2022 - Setup Form Manager: matchscheduleeditor_form
+[ INFO ] Mon May  9 20:53:46 2022 - Setup Form Manager: teamseditor_form
+[ INFO ] Mon May  9 20:53:46 2022 - Resize teams editor: teamseditor_form
+[ INFO ] Mon May  9 20:53:46 2022 - Setup Form Manager: playerseditor_form
+[ INFO ] Mon May  9 20:53:46 2022 - Cheat engine version: 7.400000
+[ INFO ] Mon May  9 20:53:46 2022 - Cheat Table version: 22.1.1.6
+[ INFO ] Mon May  9 20:53:46 2022 - Searching for game process
+[ INFO ] Mon May  9 20:53:49 2022 - Attached to FIFA22.exe (PID: 18656)
+[ INFO ] Mon May  9 20:53:49 2022 - Patrons ver -  22.1.1.6, free ver - 
+22.1.1.6
+[ INFO ] Mon May  9 20:53:50 2022 - Veryfing ScreenID offset
+[ INFO ] Mon May  9 20:53:50 2022 - addres_to_check 1415C37F2, aob: 4C 8D 3D ?? ?? ?? ?? C1 E8 07 49 8B F4 A8 01 4C 0F 45 3D
+[ INFO ] Mon May  9 20:53:50 2022 - Veryfing ScreenID offset success
+[ INFO ] Mon May  9 20:53:50 2022 - Current Screen: nil
+[ INFO ] Mon May  9 20:53:50 2022 - Waiting for valid screen
+[ INFO ] Mon May  9 20:53:56 2022 - Current Screen: PRAN_UPLOAD_POPUP
+[ INFO ] Mon May  9 20:53:56 2022 - Loading playernames: other/playernames.csv
+[ INFO ] Mon May  9 20:53:57 2022 - Playernames loaded.
+[ INFO ] Mon May  9 20:53:57 2022 - Saving Config to config.ini
+[ INFO ] Mon May  9 20:53:57 2022 - Activating Globals (14)
+[ INFO ] Mon May  9 20:53:58 2022 - Activating Scripts (18)
+[ INFO ] Mon May  9 20:53:58 2022 - Activating Hidden FIFA DB Tables (214)
+[ INFO ] Mon May  9 20:53:58 2022 - Veryfing fnGetColData offset
+[ INFO ] Mon May  9 20:53:58 2022 - addres_to_check 142F53030, aob: 40 53 48 83 EC 30 4C 8B D2 4D 8B D8 8B 12 8D 42 FD 83 F8 01
+[ INFO ] Mon May  9 20:53:58 2022 - Veryfing fnGetColData offset success
+[ INFO ] Mon May  9 20:53:58 2022 - Activating Scripts (18)
+[ INFO ] Mon May  9 20:53:58 2022 - Activating Hidden FIFA DB Tables (214)
+[ INFO ] Mon May  9 20:53:58 2022 - Veryfing DatabaseBasePtr offset
+[ INFO ] Mon May  9 20:53:58 2022 - addres_to_check 142F58BFF, aob: 48 0F 44 2D ?? ?? ?? ?? 45 33 FF 8B 4D 08 8B F1 0F AF 75 00 8D 41 01
+[ INFO ] Mon May  9 20:53:58 2022 - Veryfing DatabaseBasePtr offset success
+[ INFO ] Mon May  9 20:53:58 2022 - Veryfing pModeManagers offset
+[ INFO ] Mon May  9 20:53:58 2022 - addres_to_check 146267988, aob: 4C 89 3D ?? ?? ?? ?? 48 89 3D ?? ?? ?? ?? EB 03 48 8B C3
+[ INFO ] Mon May  9 20:53:58 2022 - Veryfing pModeManagers offset success
+[ INFO ] Mon May  9 20:53:58 2022 - Veryfing fnGenYAReport offset
+[ INFO ] Mon May  9 20:53:58 2022 - addres_to_check 145EC55E0, aob: 40 55 57 48 8D 6C 24 ?? 48 81 EC ?? ?? ?? ?? 48 8B 01 48 8B F9 FF 50 08 84 C0 0F 84 ?? ?? ?? ?? 48 8B 57 08 48 89 9C 24 ?? ?? ?? ?? 4C 89 B4 24 ?? ?? ?? ??
+[ INFO ] Mon May  9 20:53:58 2022 - Veryfing fnGenYAReport offset success
+[ INFO ] Mon May  9 20:53:58 2022 - load_img: heads/p41.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/heads/p41.png
+[ INFO ] Mon May  9 20:53:58 2022 - load_img: crest/l1.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/crest/dark/l1.png
+[ INFO ] Mon May  9 20:53:59 2022 - Ready to use.
+[ INFO ] Mon May  9 20:54:13 2022 - Veryfing HireScout offset
+[ INFO ] Mon May  9 20:54:13 2022 - addres_to_check 145EEC7FE, aob: 89 84 24 28 01 00 00 48 8D 4C 24 60
+[ INFO ] Mon May  9 20:54:13 2022 - Veryfing HireScout offset success
+[ INFO ] Mon May  9 20:54:17 2022 - Veryfing CoachTrainingAlwaysA offset
+[ INFO ] Mon May  9 20:54:17 2022 - addres_to_check 1462F23AF, aob: 66 C7 46 04 01 01 8B
+[ INFO ] Mon May  9 20:54:17 2022 - Veryfing CoachTrainingAlwaysA offset success
+[ INFO ] Mon May  9 20:54:24 2022 - Veryfing YASomeScoutIni offset
+[ INFO ] Mon May  9 20:54:24 2022 - addres_to_check 145ECB39F, aob: 48 48 8B 07 48 8B 80 98 01 00 00
+[ INFO ] Mon May  9 20:54:24 2022 - Veryfing YASomeScoutIni offset success
+[ INFO ] Mon May  9 20:55:17 2022 - Veryfing GTNRevealPlayerData offset
+[ INFO ] Mon May  9 20:55:17 2022 - addres_to_check 1463353B6, aob: 8B 8D 9C 02 00 00 39
+[ INFO ] Mon May  9 20:55:17 2022 - Veryfing GTNRevealPlayerData offset success
+[ INFO ] Mon May  9 20:55:25 2022 - Veryfing MatchScore offset
+[ INFO ] Mon May  9 20:55:25 2022 - addres_to_check 14385FD42, aob: 8B 90 B4 26 02 00
+[ INFO ] Mon May  9 20:55:25 2022 - Veryfing MatchScore offset success
+[ INFO ] Mon May  9 20:55:25 2022 - Veryfing DisableSubstitutions offset
+[ INFO ] Mon May  9 20:55:25 2022 - addres_to_check 142F61940, aob: 44 8B B4 1E 5C A7 00 00
+[ INFO ] Mon May  9 20:55:25 2022 - Veryfing DisableSubstitutions offset success
+[ INFO ] Mon May  9 20:55:25 2022 - Veryfing IngameStamina offset
+[ INFO ] Mon May  9 20:55:25 2022 - addres_to_check 143A05443, aob: 89 83 A0 04 00 00 8B 47
+[ INFO ] Mon May  9 20:55:25 2022 - Veryfing IngameStamina offset success
+[ INFO ] Mon May  9 20:55:27 2022 - Veryfing UnlimitedSubstitutions offset
+[ INFO ] Mon May  9 20:55:27 2022 - addres_to_check 145AC06B1, aob: 8B 84 01 0C 9F 00 00
+[ INFO ] Mon May  9 20:55:27 2022 - Veryfing UnlimitedSubstitutions offset success
+[ INFO ] Tue May 10 01:15:28 2022 - Deactivating all scripts
+[ INFO ] Tue May 10 01:15:28 2022 - Deactivated all scripts

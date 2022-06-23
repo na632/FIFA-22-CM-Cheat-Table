@@ -1,0 +1,181 @@
+[ INFO ] Wed May 18 17:06:22 2022 - ================================
+[ INFO ] Wed May 18 17:06:22 2022 - =========== INITIALIZE =========
+[ INFO ] Wed May 18 17:06:22 2022 - ================================
+[ INFO ] Wed May 18 17:06:22 2022 - os.getenv('HOMEDRIVE') C:
+[ INFO ] Wed May 18 17:06:22 2022 - os.getenv('SystemDrive') C:
+[ INFO ] Wed May 18 17:06:22 2022 - HOMEDRIVE: C:
+[ INFO ] Wed May 18 17:06:23 2022 - Using cwd Config
+[ INFO ] Wed May 18 17:06:23 2022 - Loading CFG_DATA from config.ini
+[ INFO ] Wed May 18 17:06:23 2022 - Loading OFFSETS_DATA from offsets.ini
+[ INFO ] Wed May 18 17:06:23 2022 - Setup Form Manager: main_form
+[ INFO ] Wed May 18 17:06:23 2022 - Setup Form Manager: matchfixing_form
+[ INFO ] Wed May 18 17:06:23 2022 - Setup Form Manager: findplayer_form
+[ INFO ] Wed May 18 17:06:23 2022 - Setup Form Manager: findteam_form
+[ INFO ] Wed May 18 17:06:23 2022 - Setup Form Manager: transferplayers_form
+[ INFO ] Wed May 18 17:06:23 2022 - Setup Form Manager: newmatchfix_form
+[ INFO ] Wed May 18 17:06:23 2022 - Setup Form Manager: matchscheduleeditor_form
+[ INFO ] Wed May 18 17:06:23 2022 - Setup Form Manager: playerseditor_form
+[ INFO ] Wed May 18 17:06:23 2022 - Setup Form Manager: teamseditor_form
+[ INFO ] Wed May 18 17:06:23 2022 - Resize teams editor: teamseditor_form
+[ INFO ] Wed May 18 17:06:23 2022 - Setup Form Manager: settings_form
+[ INFO ] Wed May 18 17:06:23 2022 - Cheat engine version: 7.400000
+[ INFO ] Wed May 18 17:06:23 2022 - Cheat Table version: 22.1.1.6
+[ INFO ] Wed May 18 17:06:23 2022 - Searching for game process
+[ INFO ] Wed May 18 17:06:26 2022 - Attached to FIFA22.exe (PID: 5856)
+[ INFO ] Wed May 18 17:06:26 2022 - Patrons ver -  22.1.1.6, free ver - 
+22.1.1.6
+[ INFO ] Wed May 18 17:06:27 2022 - Veryfing ScreenID offset
+[ INFO ] Wed May 18 17:06:27 2022 - addres_to_check 1415C37F2, aob: 4C 8D 3D ?? ?? ?? ?? C1 E8 07 49 8B F4 A8 01 4C 0F 45 3D
+[ INFO ] Wed May 18 17:06:27 2022 - Veryfing ScreenID offset success
+[ INFO ] Wed May 18 17:06:27 2022 - Current Screen: nil
+[ INFO ] Wed May 18 17:06:27 2022 - Waiting for valid screen
+[ INFO ] Wed May 18 17:07:14 2022 - Current Screen: OnlineLiveMessaging
+[ INFO ] Wed May 18 17:07:14 2022 - Loading playernames: other/playernames.csv
+[ INFO ] Wed May 18 17:07:14 2022 - Playernames loaded.
+[ INFO ] Wed May 18 17:07:14 2022 - Saving Config to config.ini
+[ INFO ] Wed May 18 17:07:14 2022 - Activating Globals (14)
+[ INFO ] Wed May 18 17:07:14 2022 - Activating Scripts (18)
+[ INFO ] Wed May 18 17:07:14 2022 - Activating Hidden FIFA DB Tables (214)
+[ INFO ] Wed May 18 17:07:14 2022 - Veryfing fnGetColData offset
+[ INFO ] Wed May 18 17:07:14 2022 - addres_to_check 142F53030, aob: 40 53 48 83 EC 30 4C 8B D2 4D 8B D8 8B 12 8D 42 FD 83 F8 01
+[ WARNING ] Wed May 18 17:07:14 2022 - Veryfing fnGetColData offset failed
+[ WARNING ] Wed May 18 17:07:14 2022 - Bytes in memory: 48 89 74 24 10 57 48 83 EC 30 8B 0A 4D 8B D1 49 8B F0 48 8B != fnGetColData: 40 53 48 83 EC 30 4C 8B D2 4D 8B D8 8B 12 8D 42 FD 83 F8 01
+[ INFO ] Wed May 18 17:07:14 2022 - AOBScanModule, pattern for fnGetColData
+[ INFO ] Wed May 18 17:07:14 2022 - 40 53 48 83 EC 30 4C 8B D2 4D 8B D8 8B 12 8D 42 FD 83 F8 01
+[ INFO ] Wed May 18 17:07:14 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:07:14 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:07:15 2022 - New Offset for fnGetColData - 0x2F52F00
+[ INFO ] Wed May 18 17:07:15 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:07:15 2022 - Activating Scripts (18)
+[ INFO ] Wed May 18 17:07:15 2022 - Activating Hidden FIFA DB Tables (214)
+[ INFO ] Wed May 18 17:07:15 2022 - Veryfing DatabaseBasePtr offset
+[ INFO ] Wed May 18 17:07:15 2022 - addres_to_check 142F58BFF, aob: 48 0F 44 2D ?? ?? ?? ?? 45 33 FF 8B 4D 08 8B F1 0F AF 75 00 8D 41 01
+[ WARNING ] Wed May 18 17:07:15 2022 - Veryfing DatabaseBasePtr offset failed
+[ WARNING ] Wed May 18 17:07:15 2022 - Bytes in memory: FF FF FF 03 8B 53 40 83 FA 02 0F 83 D7 02 00 00 41 0F B6 08 80 F9 20 != DatabaseBasePtr: 48 0F 44 2D ?? ?? ?? ?? 45 33 FF 8B 4D 08 8B F1 0F AF 75 00 8D 41 01
+[ INFO ] Wed May 18 17:07:15 2022 - AOBScanModule, pattern for DatabaseBasePtr
+[ INFO ] Wed May 18 17:07:15 2022 - 48 0F 44 2D ?? ?? ?? ?? 45 33 FF 8B 4D 08 8B F1 0F AF 75 00 8D 41 01
+[ INFO ] Wed May 18 17:07:15 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:07:15 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:07:16 2022 - New Offset for DatabaseBasePtr - 0x2F58ACF
+[ INFO ] Wed May 18 17:07:16 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:07:16 2022 - Veryfing pModeManagers offset
+[ INFO ] Wed May 18 17:07:16 2022 - addres_to_check 146267988, aob: 4C 89 3D ?? ?? ?? ?? 48 89 3D ?? ?? ?? ?? EB 03 48 8B C3
+[ WARNING ] Wed May 18 17:07:16 2022 - Veryfing pModeManagers offset failed
+[ WARNING ] Wed May 18 17:07:16 2022 - Bytes in memory: 48 03 00 00 49 89 00 B8 01 00 00 00 41 C7 40 08 13 00 00 != pModeManagers: 4C 89 3D ?? ?? ?? ?? 48 89 3D ?? ?? ?? ?? EB 03 48 8B C3
+[ INFO ] Wed May 18 17:07:16 2022 - AOBScanModule, pattern for pModeManagers
+[ INFO ] Wed May 18 17:07:16 2022 - 4C 89 3D ?? ?? ?? ?? 48 89 3D ?? ?? ?? ?? EB 03 48 8B C3
+[ INFO ] Wed May 18 17:07:16 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:07:16 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:07:16 2022 - New Offset for pModeManagers - 0x626A1E8
+[ INFO ] Wed May 18 17:07:16 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:07:16 2022 - Veryfing fnGenYAReport offset
+[ INFO ] Wed May 18 17:07:16 2022 - addres_to_check 145EC55E0, aob: 40 55 57 48 8D 6C 24 ?? 48 81 EC ?? ?? ?? ?? 48 8B 01 48 8B F9 FF 50 08 84 C0 0F 84 ?? ?? ?? ?? 48 8B 57 08 48 89 9C 24 ?? ?? ?? ?? 4C 89 B4 24 ?? ?? ?? ??
+[ WARNING ] Wed May 18 17:07:16 2022 - Veryfing fnGenYAReport offset failed
+[ WARNING ] Wed May 18 17:07:16 2022 - Bytes in memory: 48 8B 83 90 00 00 00 48 3B 83 98 00 00 00 74 07 48 89 83 98 00 00 00 48 83 C4 30 5B C3 CC CC CC 89 54 24 10 53 48 83 EC 20 48 83 C1 10 48 8D 54 24 38 49 8B != fnGenYAReport: 40 55 57 48 8D 6C 24 ?? 48 81 EC ?? ?? ?? ?? 48 8B 01 48 8B F9 FF 50 08 84 C0 0F 84 ?? ?? ?? ?? 48 8B 57 08 48 89 9C 24 ?? ?? ?? ?? 4C 89 B4 24 ?? ?? ?? ??
+[ INFO ] Wed May 18 17:07:16 2022 - AOBScanModule, pattern for fnGenYAReport
+[ INFO ] Wed May 18 17:07:16 2022 - 40 55 57 48 8D 6C 24 ?? 48 81 EC ?? ?? ?? ?? 48 8B 01 48 8B F9 FF 50 08 84 C0 0F 84 ?? ?? ?? ?? 48 8B 57 08 48 89 9C 24 ?? ?? ?? ?? 4C 89 B4 24 ?? ?? ?? ??
+[ INFO ] Wed May 18 17:07:16 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:07:16 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:07:17 2022 - New Offset for fnGenYAReport - 0x5EC8210
+[ INFO ] Wed May 18 17:07:17 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:07:17 2022 - load_img: heads/p41.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/heads/p41.png
+[ INFO ] Wed May 18 17:07:17 2022 - load_img: crest/l1.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/crest/dark/l1.png
+[ INFO ] Wed May 18 17:07:17 2022 - Ready to use.
+[ INFO ] Wed May 18 17:07:36 2022 - Veryfing CoachTrainingAlwaysA offset
+[ INFO ] Wed May 18 17:07:36 2022 - addres_to_check 1462F23AF, aob: 66 C7 46 04 01 01 8B
+[ WARNING ] Wed May 18 17:07:36 2022 - Veryfing CoachTrainingAlwaysA offset failed
+[ WARNING ] Wed May 18 17:07:36 2022 - Bytes in memory: 8B 41 18 BA 21 A8 3E != CoachTrainingAlwaysA: 66 C7 46 04 01 01 8B
+[ INFO ] Wed May 18 17:07:36 2022 - AOBScanModule, pattern for CoachTrainingAlwaysA
+[ INFO ] Wed May 18 17:07:36 2022 - 66 C7 46 04 01 01 8B
+[ INFO ] Wed May 18 17:07:36 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:07:36 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:07:37 2022 - New Offset for CoachTrainingAlwaysA - 0x62F4C0F
+[ INFO ] Wed May 18 17:07:37 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:07:46 2022 - Veryfing YASomeScoutIni offset
+[ INFO ] Wed May 18 17:07:46 2022 - addres_to_check 145ECB39F, aob: 48 48 8B 07 48 8B 80 98 01 00 00
+[ WARNING ] Wed May 18 17:07:46 2022 - Veryfing YASomeScoutIni offset failed
+[ WARNING ] Wed May 18 17:07:46 2022 - Bytes in memory: C2 34 E8 8A DD 8A FF 45 8B 47 04 != YASomeScoutIni: 48 48 8B 07 48 8B 80 98 01 00 00
+[ INFO ] Wed May 18 17:07:46 2022 - AOBScanModule, pattern for YASomeScoutIni
+[ INFO ] Wed May 18 17:07:46 2022 - 48 48 8B 07 48 8B 80 98 01 00 00
+[ INFO ] Wed May 18 17:07:46 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:07:46 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:07:46 2022 - New Offset for YASomeScoutIni - 0x5ECDFCF
+[ INFO ] Wed May 18 17:07:46 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:07:49 2022 - Veryfing YAMaxPerReport offset
+[ INFO ] Wed May 18 17:07:49 2022 - addres_to_check 145EC6175, aob: 47 8B 44 FE 58
+[ WARNING ] Wed May 18 17:07:49 2022 - Veryfing YAMaxPerReport offset failed
+[ WARNING ] Wed May 18 17:07:49 2022 - Bytes in memory: 39 3C C9 74 16 != YAMaxPerReport: 47 8B 44 FE 58
+[ INFO ] Wed May 18 17:07:49 2022 - AOBScanModule, pattern for YAMaxPerReport
+[ INFO ] Wed May 18 17:07:49 2022 - 47 8B 44 FE 58
+[ INFO ] Wed May 18 17:07:49 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:07:49 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:07:49 2022 - New Offset for YAMaxPerReport - 0x5EC8DA5
+[ INFO ] Wed May 18 17:07:49 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:08:12 2022 - Veryfing GTNRevealPlayerData offset
+[ INFO ] Wed May 18 17:08:12 2022 - addres_to_check 1463353B6, aob: 8B 8D 9C 02 00 00 39
+[ WARNING ] Wed May 18 17:08:12 2022 - Veryfing GTNRevealPlayerData offset failed
+[ WARNING ] Wed May 18 17:08:12 2022 - Bytes in memory: C0 44 0F 4F C0 44 89 != GTNRevealPlayerData: 8B 8D 9C 02 00 00 39
+[ INFO ] Wed May 18 17:08:12 2022 - AOBScanModule, pattern for GTNRevealPlayerData
+[ INFO ] Wed May 18 17:08:12 2022 - 8B 8D 9C 02 00 00 39
+[ INFO ] Wed May 18 17:08:12 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:08:12 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:08:13 2022 - New Offset for GTNRevealPlayerData - 0x6337EC6
+[ INFO ] Wed May 18 17:08:13 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:08:15 2022 - AOBScanModule, pattern for UnlimitedPlayerRelease
+[ INFO ] Wed May 18 17:08:15 2022 - 39 47 54 BA 58 13 00 00
+[ INFO ] Wed May 18 17:08:15 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:08:15 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:08:15 2022 - New Offset for UnlimitedPlayerRelease - 0x6327911
+[ INFO ] Wed May 18 17:08:15 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:08:15 2022 - AOBScanModule, pattern for ReleasePlayerMsgBox
+[ INFO ] Wed May 18 17:08:15 2022 - 4C 8B E0 85 FF 0F
+[ INFO ] Wed May 18 17:08:15 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:08:15 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:08:16 2022 - New Offset for ReleasePlayerMsgBox - 0x52DE0F3
+[ INFO ] Wed May 18 17:08:16 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:08:16 2022 - AOBScanModule, pattern for ReleasePlayerFee
+[ INFO ] Wed May 18 17:08:16 2022 - 41 8B D7 49 8B CD 44 8B F0
+[ INFO ] Wed May 18 17:08:16 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:08:16 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:08:16 2022 - New Offset for ReleasePlayerFee - 0x5FE5758
+[ INFO ] Wed May 18 17:08:16 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:08:19 2022 - Veryfing MatchScore offset
+[ INFO ] Wed May 18 17:08:19 2022 - addres_to_check 14385FD42, aob: 8B 90 B4 26 02 00
+[ WARNING ] Wed May 18 17:08:19 2022 - Veryfing MatchScore offset failed
+[ WARNING ] Wed May 18 17:08:19 2022 - Bytes in memory: 41 0C 66 89 45 EC != MatchScore: 8B 90 B4 26 02 00
+[ INFO ] Wed May 18 17:08:19 2022 - AOBScanModule, pattern for MatchScore
+[ INFO ] Wed May 18 17:08:19 2022 - 8B 90 B4 26 02 00
+[ INFO ] Wed May 18 17:08:19 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:08:19 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:08:20 2022 - New Offset for MatchScore - 0x385FC12
+[ INFO ] Wed May 18 17:08:20 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:08:20 2022 - Veryfing DisableSubstitutions offset
+[ INFO ] Wed May 18 17:08:20 2022 - addres_to_check 142F61940, aob: 44 8B B4 1E 5C A7 00 00
+[ WARNING ] Wed May 18 17:08:20 2022 - Veryfing DisableSubstitutions offset failed
+[ WARNING ] Wed May 18 17:08:20 2022 - Bytes in memory: CB E8 1A EA FF FF 84 C0 != DisableSubstitutions: 44 8B B4 1E 5C A7 00 00
+[ INFO ] Wed May 18 17:08:20 2022 - AOBScanModule, pattern for DisableSubstitutions
+[ INFO ] Wed May 18 17:08:20 2022 - 44 8B B4 1E 5C A7 00 00
+[ INFO ] Wed May 18 17:08:20 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:08:20 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:08:20 2022 - New Offset for DisableSubstitutions - 0x2F61810
+[ INFO ] Wed May 18 17:08:20 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:08:20 2022 - Veryfing IngameStamina offset
+[ INFO ] Wed May 18 17:08:20 2022 - addres_to_check 143A05443, aob: 89 83 A0 04 00 00 8B 47
+[ WARNING ] Wed May 18 17:08:20 2022 - Veryfing IngameStamina offset failed
+[ WARNING ] Wed May 18 17:08:20 2022 - Bytes in memory: 07 00 00 8B 87 C0 01 00 != IngameStamina: 89 83 A0 04 00 00 8B 47
+[ INFO ] Wed May 18 17:08:20 2022 - AOBScanModule, pattern for IngameStamina
+[ INFO ] Wed May 18 17:08:20 2022 - 89 83 A0 04 00 00 8B 47
+[ INFO ] Wed May 18 17:08:20 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:08:20 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:08:20 2022 - New Offset for IngameStamina - 0x3A052C3
+[ INFO ] Wed May 18 17:08:20 2022 - Saving Offsets to offsets.ini
+[ INFO ] Wed May 18 17:08:25 2022 - Veryfing UnlimitedSubstitutions offset
+[ INFO ] Wed May 18 17:08:25 2022 - addres_to_check 145AC06B1, aob: 8B 84 01 0C 9F 00 00
+[ WARNING ] Wed May 18 17:08:25 2022 - Veryfing UnlimitedSubstitutions offset failed
+[ WARNING ] Wed May 18 17:08:25 2022 - Bytes in memory: 48 8B 45 77 48 63 88 != UnlimitedSubstitutions: 8B 84 01 0C 9F 00 00
+[ INFO ] Wed May 18 17:08:25 2022 - AOBScanModule, pattern for UnlimitedSubstitutions
+[ INFO ] Wed May 18 17:08:25 2022 - 8B 84 01 0C 9F 00 00
+[ INFO ] Wed May 18 17:08:25 2022 - Module_size FIFA22.exe, 246BA000
+[ INFO ] Wed May 18 17:08:25 2022 - 140000000 - 1646BA000
+[ INFO ] Wed May 18 17:08:25 2022 - New Offset for UnlimitedSubstitutions - 0x5AC3251
+[ INFO ] Wed May 18 17:08:25 2022 - Saving Offsets to offsets.ini

@@ -1,0 +1,84 @@
+[ INFO ] Sat Jun  4 15:56:56 2022 - ================================
+[ INFO ] Sat Jun  4 15:56:56 2022 - =========== INITIALIZE =========
+[ INFO ] Sat Jun  4 15:56:56 2022 - ================================
+[ INFO ] Sat Jun  4 15:56:56 2022 - os.getenv('HOMEDRIVE') C:
+[ INFO ] Sat Jun  4 15:56:56 2022 - os.getenv('SystemDrive') C:
+[ INFO ] Sat Jun  4 15:56:56 2022 - HOMEDRIVE: C:
+[ INFO ] Sat Jun  4 15:56:56 2022 - Using cwd Config
+[ INFO ] Sat Jun  4 15:56:57 2022 - Loading CFG_DATA from config.ini
+[ INFO ] Sat Jun  4 15:56:57 2022 - Loading OFFSETS_DATA from offsets.ini
+[ INFO ] Sat Jun  4 15:56:57 2022 - Setup Form Manager: playerseditor_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Setup Form Manager: teamseditor_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Resize teams editor: teamseditor_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Setup Form Manager: settings_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Setup Form Manager: findplayer_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Setup Form Manager: newmatchfix_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Setup Form Manager: matchscheduleeditor_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Setup Form Manager: matchfixing_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Setup Form Manager: main_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Setup Form Manager: transferplayers_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Setup Form Manager: findteam_form
+[ INFO ] Sat Jun  4 15:56:57 2022 - Cheat engine version: 7.400000
+[ INFO ] Sat Jun  4 15:56:57 2022 - Cheat Table version: 22.1.1.6
+[ INFO ] Sat Jun  4 15:56:57 2022 - Searching for game process
+[ INFO ] Sat Jun  4 15:56:59 2022 - Attached to FIFA22.exe (PID: 16864)
+[ INFO ] Sat Jun  4 15:57:00 2022 - Patrons ver -  22.1.1.6, free ver - 
+22.1.1.6
+[ INFO ] Sat Jun  4 15:57:01 2022 - Veryfing ScreenID offset
+[ INFO ] Sat Jun  4 15:57:01 2022 - addres_to_check 1415C3C02, aob: 4C 8D 3D ?? ?? ?? ?? C1 E8 07 49 8B F4 A8 01 4C 0F 45 3D
+[ INFO ] Sat Jun  4 15:57:01 2022 - Veryfing ScreenID offset success
+[ INFO ] Sat Jun  4 15:57:01 2022 - Current Screen: txt_cmhub_central
+[ INFO ] Sat Jun  4 15:57:01 2022 - Waiting for valid screen
+[ INFO ] Sat Jun  4 15:57:01 2022 - Current Screen: txt_cmhub_central
+[ INFO ] Sat Jun  4 15:57:01 2022 - Loading playernames: other/playernames.csv
+[ INFO ] Sat Jun  4 15:57:01 2022 - Playernames loaded.
+[ INFO ] Sat Jun  4 15:57:01 2022 - Saving Config to config.ini
+[ INFO ] Sat Jun  4 15:57:01 2022 - Activating Globals (14)
+[ INFO ] Sat Jun  4 15:57:01 2022 - Activating Scripts (18)
+[ INFO ] Sat Jun  4 15:57:01 2022 - Activating Hidden FIFA DB Tables (214)
+[ INFO ] Sat Jun  4 15:57:01 2022 - Veryfing fnGetColData offset
+[ INFO ] Sat Jun  4 15:57:01 2022 - addres_to_check 142F63C60, aob: 40 53 48 83 EC 30 4C 8B D2 4D 8B D8 8B 12 8D 42 FD 83 F8 01
+[ INFO ] Sat Jun  4 15:57:01 2022 - Veryfing fnGetColData offset success
+[ INFO ] Sat Jun  4 15:57:01 2022 - Activating Scripts (18)
+[ INFO ] Sat Jun  4 15:57:01 2022 - Activating Hidden FIFA DB Tables (214)
+[ INFO ] Sat Jun  4 15:57:01 2022 - Veryfing DatabaseBasePtr offset
+[ INFO ] Sat Jun  4 15:57:01 2022 - addres_to_check 142F6982F, aob: 48 0F 44 2D ?? ?? ?? ?? 45 33 FF 8B 4D 08 8B F1 0F AF 75 00 8D 41 01
+[ INFO ] Sat Jun  4 15:57:01 2022 - Veryfing DatabaseBasePtr offset success
+[ INFO ] Sat Jun  4 15:57:01 2022 - Veryfing pModeManagers offset
+[ INFO ] Sat Jun  4 15:57:01 2022 - addres_to_check 14627C148, aob: 4C 89 3D ?? ?? ?? ?? 48 89 3D ?? ?? ?? ?? EB 03 48 8B C3
+[ INFO ] Sat Jun  4 15:57:01 2022 - Veryfing pModeManagers offset success
+[ INFO ] Sat Jun  4 15:57:01 2022 - Veryfing fnGenYAReport offset
+[ INFO ] Sat Jun  4 15:57:01 2022 - addres_to_check 145EDA170, aob: 40 55 57 48 8D 6C 24 ?? 48 81 EC ?? ?? ?? ?? 48 8B 01 48 8B F9 FF 50 08 84 C0 0F 84 ?? ?? ?? ?? 48 8B 57 08 48 89 9C 24 ?? ?? ?? ?? 4C 89 B4 24 ?? ?? ?? ??
+[ INFO ] Sat Jun  4 15:57:02 2022 - Veryfing fnGenYAReport offset success
+[ INFO ] Sat Jun  4 15:57:02 2022 - load_img: heads/p41.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/heads/p41.png
+[ INFO ] Sat Jun  4 15:57:02 2022 - load_img: crest/l1.png, https://fifatracker-cdn.fra1.digitaloceanspaces.com/img/assets/22/crest/dark/l1.png
+[ INFO ] Sat Jun  4 15:57:02 2022 - Ready to use.
+[ INFO ] Sat Jun  4 15:57:14 2022 - Veryfing CoachTrainingAlwaysA offset
+[ INFO ] Sat Jun  4 15:57:14 2022 - addres_to_check 146306B6F, aob: 66 C7 46 04 01 01 8B
+[ INFO ] Sat Jun  4 15:57:14 2022 - Veryfing CoachTrainingAlwaysA offset success
+[ INFO ] Sat Jun  4 15:57:29 2022 - Veryfing YASomeScoutIni offset
+[ INFO ] Sat Jun  4 15:57:29 2022 - addres_to_check 145EDFF2F, aob: 48 48 8B 07 48 8B 80 98 01 00 00
+[ INFO ] Sat Jun  4 15:57:29 2022 - Veryfing YASomeScoutIni offset success
+[ INFO ] Sat Jun  4 15:57:30 2022 - Veryfing YAYouthPlayerUtilSettings offset
+[ INFO ] Sat Jun  4 15:57:30 2022 - addres_to_check 1462495DE, aob: 48 8B 51 18 48 8D 8D ?? ?? ?? ?? 48 83 C2 08 E8 ?? ?? ?? ?? 44 8B 85 ?? ?? ?? ?? 45 8B F8 48 63 44 24
+[ INFO ] Sat Jun  4 15:57:30 2022 - Veryfing YAYouthPlayerUtilSettings offset success
+[ INFO ] Sat Jun  4 15:57:31 2022 - Veryfing YAMaxPerReport offset
+[ INFO ] Sat Jun  4 15:57:31 2022 - addres_to_check 145EDAD05, aob: 47 8B 44 FE 58
+[ INFO ] Sat Jun  4 15:57:31 2022 - Veryfing YAMaxPerReport offset success
+[ INFO ] Sat Jun  4 15:57:49 2022 - Veryfing GTNRevealPlayerData offset
+[ INFO ] Sat Jun  4 15:57:49 2022 - addres_to_check 146349E26, aob: 8B 8D 9C 02 00 00 39
+[ INFO ] Sat Jun  4 15:57:49 2022 - Veryfing GTNRevealPlayerData offset success
+[ INFO ] Sat Jun  4 15:57:51 2022 - Veryfing MatchScore offset
+[ INFO ] Sat Jun  4 15:57:51 2022 - addres_to_check 143870972, aob: 8B 90 B4 26 02 00
+[ INFO ] Sat Jun  4 15:57:51 2022 - Veryfing MatchScore offset success
+[ INFO ] Sat Jun  4 15:57:51 2022 - Veryfing DisableSubstitutions offset
+[ INFO ] Sat Jun  4 15:57:51 2022 - addres_to_check 142F72570, aob: 44 8B B4 1E 5C A7 00 00
+[ INFO ] Sat Jun  4 15:57:51 2022 - Veryfing DisableSubstitutions offset success
+[ INFO ] Sat Jun  4 15:57:51 2022 - Veryfing IngameStamina offset
+[ INFO ] Sat Jun  4 15:57:51 2022 - addres_to_check 143A16023, aob: 89 83 A0 04 00 00 8B 47
+[ INFO ] Sat Jun  4 15:57:51 2022 - Veryfing IngameStamina offset success
+[ INFO ] Sat Jun  4 15:57:52 2022 - Veryfing UnlimitedSubstitutions offset
+[ INFO ] Sat Jun  4 15:57:52 2022 - addres_to_check 145AD51B1, aob: 8B 84 01 0C 9F 00 00
+[ INFO ] Sat Jun  4 15:57:52 2022 - Veryfing UnlimitedSubstitutions offset success
+[ INFO ] Sat Jun  4 17:52:08 2022 - Deactivating all scripts
+[ INFO ] Sat Jun  4 17:52:08 2022 - Deactivated all scripts
