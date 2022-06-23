@@ -1,2 +1,0 @@
-FIFA22.exe+265DD000 - 90                    - nop 
-FIFA22.exe+265DD001 - 41 FF 25              - jmp qword ptr [r13]
